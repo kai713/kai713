@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bekbolsyn</h1>
 <h3 align="center">FULL STACK Software Developer</h3>
 
+![snake gif](https://github.com/kai713/kai713/blob/output/github-snake-dark.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kai713&label=Profile%20views&color=0e75b6&style=flat" alt="kai713" /> </p>
 
 - 🌱 I’m currently learning **AWS, Kafka, Spring Cloud, Kubernetes**
